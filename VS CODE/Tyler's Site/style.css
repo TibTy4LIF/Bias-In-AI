@@ -1,0 +1,23 @@
+header {
+    position: relative;
+    left: 160;
+    margin: 0 auto;
+    top: 10px;
+    width: 700px;
+    height: 50px;
+    background-color: #b5b5b5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+.positioned {
+    position: relative;
+    margin: 0px auto;
+    top: 50px;
+    width: 950px;
+}
+
+#biasInAiIntro {
+    margin: 50px auto;
+    width: 700px;
+}
